@@ -1,59 +1,64 @@
-WeCollect 📱
+## WeCollect 📱
 
-WeCollect je mobilna aplikacija razvijena u svrhu praćenja cijena proizvoda u trgovinama, s ciljem olakšavanja kupovine i uštede vremena i novca korisnicima.
+**WeCollect** is a mobile application developed to track product prices in stores, with the goal of making shopping easier and helping users save both time and money.
 
-Projekt je razvijen kao odgovor na rastuću inflaciju i svakodnevne promjene cijena proizvoda na tržištu.
+The project was created as a response to rising inflation and frequent daily price changes on the market.
 
-🧠 Ideja
+---
 
-WeCollect rješava jednostavan, ali svakodnevni problem –
-Gdje je proizvod najjeftiniji?
+## 🧠 Idea
 
-Za razliku od aplikacija koje ovise o službenim podacima trgovaca, WeCollect je baziran na zajednici korisnika. Korisnici sami unose proizvode, cijene i trgovine te tako stvaraju ažurnu i dinamičnu bazu podataka.
+WeCollect solves a simple yet everyday problem –
+**Where is a product the cheapest?**
 
-🚀 Glavne funkcionalnosti
+Unlike applications that rely on official retailer data, WeCollect is community-driven. Users manually add products, prices, and store information, creating an up-to-date and dynamic database.
 
-🔐 Registracija i prijava korisnika (Firebase Authentication)
+---
 
-➕ Dodavanje proizvoda (ručno ili skeniranjem barkoda)
+## 🚀 Key Features
 
-🔎 Pretraživanje proizvoda po nazivu
+🔐 User registration and login (Firebase Authentication)
 
-🏷️ Pregled cijena po trgovinama
+➕ Add products (manually or by barcode scanning)
 
-✏️ Ažuriranje podataka (svakih 24h)
+🔎 Search products by name
 
-📊 Sustav baze podataka proizvoda i korisnika
+🏷️ View prices across different stores
 
-🌐 Prateća web stranica s prikazom baze proizvoda
+✏️ Data updates (every 24 hours)
 
-🛠️ Tehnologije
+📊 Product and user database system
 
-- Android Studio
+🌐 Companion website with product database overview
 
-- Backend: Java
+---
 
-- Frontend: XML
+## 🛠️ Technologies
 
-Firebase:
+* Android Studio
+* Backend: Java
+* Frontend: XML
 
-- Realtime Database
+**Firebase:**
 
-- Authentication
+* Realtime Database
+* Authentication
 
-🏆 Postignuća
+---
 
-🥈 2. mjesto na Županijskom natjecanju iz informatike
-🇭🇷 Sudjelovanje na državnom natjecanju "Ideja godine" 2023.
+## 🏆 Achievements
 
-Projekt je prepoznat kao inovativno rješenje koje kombinira tehnologiju i društvenu korisnost.
+🥈 2nd place at the County Informatics Competition
 
-🌍 Društvena vrijednost
+🇭🇷 Participation in the national competition “Idea of the Year” 2023
 
-Pomaže građanima u uštedi novca
+The project was recognized as an innovative solution combining technology and social impact.
 
-Smanjuje nepotrebna putovanja između trgovina
+---
 
-Posredno smanjuje potrošnju goriva i emisiju CO₂
+## 🌍 Social Impact
 
-Potiče digitalnu suradnju zajednice
+* Helps citizens save money
+* Reduces unnecessary travel between stores
+* Indirectly reduces fuel consumption and CO₂ emissions
+* Encourages digital community collaboration
